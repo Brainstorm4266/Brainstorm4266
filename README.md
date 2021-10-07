@@ -1,16 +1,14 @@
 ### Hi there 👋
+My name is Andrei Dmitriev, a.k.a Brainstorm or Brainstorm4266
 
-<!--
-**Brainstorm4266/Brainstorm4266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Discord is Brainstorm#4266.
+I'm a programmer for:
+- Python
+- JavaScript
+- Java
+- C/C++
+- Lua
+z
+My pronouns are he/him.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have a wonderful day!
