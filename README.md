@@ -8,7 +8,7 @@ I'm a programmer for:
 - Java
 - C/C++
 - Lua
-z
+
 My pronouns are he/him.
 
 Have a wonderful day!
