@@ -10,6 +10,6 @@ I'm a programmer for:
 - C/C++
 - Lua
 
-My pronouns are he/him.
+My pronouns are they/them(i think?)
 
 Have a wonderful day!
