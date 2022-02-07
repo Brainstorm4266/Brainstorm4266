@@ -10,6 +10,6 @@ I'm a programmer for:
 - C/C++
 - Lua
 
-My pronouns are they/them.
+If you refer to me, make sure to use she/him, or my name. I don't bite when somebody mistakes my pronouns, though.
 
 Have a wonderful day!
