@@ -9,7 +9,6 @@ I'm a programmer for:
 - Java
 - C/C++
 - Lua
-
-If you refer to me, make sure to use she/him, or my name. I don't bite when somebody mistakes my pronouns, though.
+- Rust
 
 Have a wonderful day!
